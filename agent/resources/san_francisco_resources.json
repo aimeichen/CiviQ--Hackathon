@@ -1,0 +1,92 @@
+{
+  "catalog_name": "San Francisco MVP Verified Resource Catalog",
+  "pilot_city": "San Francisco, California",
+  "last_verified": "2026-09-29",
+  "resources": [
+    {
+      "id": "211-bay-area",
+      "name": "211 Bay Area",
+      "categories": ["general navigation", "food", "housing", "health", "jobs", "benefits", "legal"],
+      "tags": ["211", "community referral", "resource navigation"],
+      "who_it_may_help": "People seeking a confidential starting point for local health and human services in San Francisco.",
+      "next_action": "Call 211 or use the official website to ask for help in the preferred language.",
+      "contact": "Dial 211",
+      "source_url": "https://211bayarea.org/about-211-bay-area/",
+      "source_note": "The service states that phone and text support is confidential, available 24/7, and offers phone interpretation in 150 languages.",
+      "last_verified": "2026-09-29"
+    },
+    {
+      "id": "sf-marin-food-bank",
+      "name": "San Francisco-Marin Food Bank — Food Locator",
+      "categories": ["food", "groceries", "CalFresh application help"],
+      "tags": ["food", "groceries", "pantry", "meal", "hungry", "food bank", "calfresh", "食物", "食品", "杂货", "粮食"],
+      "who_it_may_help": "People looking for free groceries, emergency food, senior food boxes, or help applying for CalFresh in San Francisco or Marin.",
+      "next_action": "Use the Food Locator to find a current nearby option; confirm availability and hours before going.",
+      "contact": "Food Locator on the official website",
+      "source_url": "https://www.sfmfoodbank.org/find-food/",
+      "source_note": "The official locator covers weekly free groceries, emergency food, senior food boxes, and CalFresh application help.",
+      "last_verified": "2026-09-29"
+    },
+    {
+      "id": "sfhsa-calfresh",
+      "name": "San Francisco Human Services Agency — Apply for CalFresh",
+      "categories": ["benefits", "food assistance", "CalFresh"],
+      "tags": ["calfresh", "snap", "food stamps", "benefits", "ebt", "food assistance", "福利", "补助", "食品券"],
+      "who_it_may_help": "San Francisco residents who want to learn how to apply for food assistance; eligibility must be checked by the agency.",
+      "next_action": "Review the official application steps or call SFHSA for application assistance.",
+      "contact": "(855) 355-5757",
+      "source_url": "https://www.sfhsa.org/services/food/calfresh/apply-calfresh",
+      "source_note": "Use the official page to verify current requirements and expedited-service options.",
+      "last_verified": "2026-09-29"
+    },
+    {
+      "id": "sf-311-street-response",
+      "name": "SF 311 — Homelessness and City Support",
+      "categories": ["homelessness", "housing navigation", "city information"],
+      "tags": ["homeless", "unhoused", "shelter", "housing", "street", "311", "住房", "无家可归", "庇护所"],
+      "who_it_may_help": "People seeking non-emergency San Francisco city information or support related to homelessness, housing navigation, or street-based services.",
+      "next_action": "Call 311 for non-emergency city information or a service request. For an immediate medical or safety emergency, call 911.",
+      "contact": "Dial 311 in San Francisco",
+      "source_url": "https://www.sf.gov/coordinated-street-response-program-1",
+      "source_note": "The City states that 311 is for non-emergency city services and 911 is for police, fire, medical emergencies, and mental-health or substance-use crises.",
+      "last_verified": "2026-09-29"
+    },
+    {
+      "id": "oewd-job-help",
+      "name": "San Francisco Office of Economic and Workforce Development — Job Help",
+      "categories": ["employment", "job training", "career support"],
+      "tags": ["job", "work", "employment", "career", "training", "resume", "unemployed", "工作", "就业", "职业", "培训", "简历"],
+      "who_it_may_help": "San Francisco job seekers, including people looking for training, career pathways, re-entry support, veteran services, disability employment support, or young-adult services.",
+      "next_action": "Use the official OEWD page to choose a training or job-support pathway that fits the situation.",
+      "contact": "Official OEWD job-help page",
+      "source_url": "https://oewd.org/do-you-need-help-finding-job",
+      "source_note": "The official page lists sector training and support pathways, including construction, healthcare, veterans, disability employment, young adults, and re-entry.",
+      "last_verified": "2026-09-29"
+    },
+    {
+      "id": "sf-court-eviction-help",
+      "name": "San Francisco Superior Court — Eviction Self-Help",
+      "categories": ["legal", "eviction", "tenant support"],
+      "tags": ["eviction", "tenant", "landlord", "rent", "housing court", "legal", "lawyer", "驱逐", "租客", "房东", "租金", "法律"],
+      "who_it_may_help": "San Francisco tenants or landlords who need official self-help information about the eviction process and related referrals.",
+      "next_action": "Review the Court's self-help page and contact a listed legal-support organization if appropriate. This is information, not legal advice.",
+      "contact": "Official Court self-help page",
+      "source_url": "https://sf.courts.ca.gov/self-help/evictions",
+      "source_note": "The Court page lists the local eviction process and current referral options, including Bay Area Legal Aid and the Eviction Defense Collaborative.",
+      "last_verified": "2026-09-29"
+    },
+    {
+      "id": "sf-health-homeless-services",
+      "name": "San Francisco Health Network — Health Services for People Experiencing Homelessness",
+      "categories": ["health", "homelessness", "primary care", "behavioral health"],
+      "tags": ["health", "healthcare", "doctor", "clinic", "medical", "mental health", "substance use", "homeless", "健康", "医疗", "医生", "诊所", "心理健康"],
+      "who_it_may_help": "People experiencing homelessness or transitioning out of homelessness who need health or service-connection information.",
+      "next_action": "Use the official page to identify the most relevant walk-in, street-based, urgent-care, primary-care, or behavioral-health pathway.",
+      "contact": "Official SF Health Network resource page",
+      "source_url": "https://www.sf.gov/departments--san-francisco-health-network--health-services-people-experiencing-homelessness",
+      "source_note": "The City page links to health and service pathways for people experiencing homelessness; confirm current access details before visiting.",
+      "last_verified": "2026-09-29"
+    }
+  ]
+}
+
