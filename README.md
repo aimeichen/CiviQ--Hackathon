@@ -14,6 +14,7 @@ the specialist agents work privately in the background.
 
 - **Public demo:** https://civiq-hackathon.replit.app/
 - **Hackathon deck:** https://gamma.app/docs/Nori-Community-Companion-yq59aw2rzqw67ot?mode=doc
+- **Final pitch PDF:** [`docs/CiviQ-Meet-Nori-Hackathon-Pitch.pdf`](docs/CiviQ-Meet-Nori-Hackathon-Pitch.pdf)
 - **Submission narrative:** [`SUBMISSION.md`](SUBMISSION.md)
 
 ## Agent Team
